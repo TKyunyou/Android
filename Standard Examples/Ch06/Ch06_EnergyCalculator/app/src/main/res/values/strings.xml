@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">运动能量消耗计算器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sports">
+        <item >慢走</item>
+        <item >快走或游泳</item>
+        <item >跑步</item>
+        <item >自行车</item>
+        <item >羽毛球</item>
+        <item >高尔夫</item>
+    </string-array>
+
+</resources>

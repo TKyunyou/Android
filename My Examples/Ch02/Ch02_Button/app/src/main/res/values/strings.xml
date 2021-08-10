@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ch02_Button</string>
+    <string name="button_enlarge">放大</string>
+    <string name="button_smaller">缩小</string>
+</resources>

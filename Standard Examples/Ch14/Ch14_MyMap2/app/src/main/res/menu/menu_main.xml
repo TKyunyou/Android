@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/mark" android:title="标记"
+        app:showAsAction="ifRoom" android:icon="@drawable/ic_action_mark" />
+    <item android:id="@+id/satellite" android:title="显示卫星图像" android:checkable="true" />
+    <item android:id="@+id/traffic" android:title="显示交通状况" android:checkable="true" />
+    <item android:id="@+id/currLoction" android:title="移到当前位置" />
+    <item android:id="@+id/setGPS" android:title="设置定位服务" />
+    <item android:id="@+id/about" android:title="关于 我的地图" />
+</menu>
+
+
+

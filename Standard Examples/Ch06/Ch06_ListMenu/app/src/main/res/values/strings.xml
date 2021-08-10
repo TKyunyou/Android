@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ch06_ListMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="menuItems">
+        <item>汉堡</item>
+        <item>薯条</item>
+        <item>可乐</item>
+        <item>玉米浓汤</item>
+    </string-array>
+
+</resources>

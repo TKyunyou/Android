@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ch06_ListMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="menuItems">
+        <item>台北影城</item>
+        <item>板桥影城</item>
+        <item>台中影城</item>
+        <item>台南影城</item>
+        <item>高痽影城</item>
+    </string-array>
+
+</resources>

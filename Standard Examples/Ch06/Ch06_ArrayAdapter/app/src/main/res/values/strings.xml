@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ch06_ArrayAdapter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="drinkname">
+        <item >珍珠奶茶</item>
+        <item >波霸奶茶</item>
+        <item >仙草冻奶茶</item>
+        <item >柠檬汁</item>
+    </string-array>
+
+</resources>

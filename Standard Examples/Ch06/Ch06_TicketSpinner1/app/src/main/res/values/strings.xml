@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ch06_TicketSpinner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cinemas">
+        <item>台北影城</item>
+        <item>板桥影城</item>
+        <item>台中影城</item>
+        <item>台南影城</item>
+        <item>高痽影城</item>
+    </string-array>
+    <string-array name="times">
+        <item>早场</item>
+        <item>午场</item>
+        <item>晚场</item>
+    </string-array>
+</resources>
